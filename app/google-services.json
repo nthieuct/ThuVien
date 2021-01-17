@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599422484068",
+    "project_id": "thuvien-5b1d0",
+    "storage_bucket": "thuvien-5b1d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599422484068:android:cfe3f0a0a0905fb21c2971",
+        "android_client_info": {
+          "package_name": "com.hieu.ThuVien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599422484068-2klctam11ioh5ek4h56d746seja9ijt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6hA10XZ5UMJtXiqAnJg3YhnNHLSQAkQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599422484068-2klctam11ioh5ek4h56d746seja9ijt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
