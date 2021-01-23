@@ -14,7 +14,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:gravity="center_horizontal"
-        android:text="CẬP NHẬT THÔNG TIN MƯỢN SÁCH"
+        android:text="CẬP NHẬT MƯỢN SÁCH"
         android:textAlignment="center"
         android:textColor="@color/mauxanh"
         android:textSize="24sp"
